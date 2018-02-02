@@ -14,3 +14,5 @@ My = A*Mx
 Sy = A*Sx*transpose(A)
 
 %% Question c
+
+%% Question d
